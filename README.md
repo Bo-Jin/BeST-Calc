@@ -8,3 +8,4 @@ There are three models for size effect on the surface tension.
 Also, you can choose the Pycalphad to calculate the partial excess molar Gibbs energy, which require you to install the Pycalphad first in your PC.
 Pls enjoy this code.
 BTW, if you have some problems pls do not hesitate to contact me.
+Now we have released the BeST-Calc-V6. Please find it if you need.
